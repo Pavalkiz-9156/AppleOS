@@ -1,0 +1,24 @@
+<html> 
+<head> </head>
+<body style="background-color:#ffffff"> 
+<div style="font-family:Lucida console;font-size:32px;dispay:table;color:#3000f5;background-color:white;"> 
+APFINE Download 9.0               AP (C) APfine Shader & mod client     Icon: (M) = +Mod client (B) = +BedWars Client [P] = Preview / Update Preview |
+| Help with APfine to get (PRO) (EXPERT) (MASTER) (GUARD) (GOD) (ADOBT) ranks and to download new APfine!
+<div style="font-family:Lucida Console;font-size:24px;dispay:table;color:#44af24;background-color:white;">
+When you want to download this, please read AboutAPfine.md!!!
+<div style="font-family:Arial;font-size:24px;dispay:table;color:###00FF3A ;background-color:white;">
+MC 1.8-1.12 v10.5.23.1
+<div style="font-family:Lucida console;font-size:28px;dispay:table;color:#3000ff;background-color:white;"> 
+AP (C) APfine Download Client for Minecraft and Realcraft latest update 19.09.2023 17:17
+<div style="font-family:Lucida console;font-size:28px;dispay:table;color:#3000ff;background-color:white;"> 
+New Version 10.0
+<div style="font-family:Lucida console;font-size:28px;dispay:table;color:##5EFF33;background-color:white;"> 
+TheReality - Feel REAL!
+
+
+
+</div>
+
+
+</body>
+</html>
